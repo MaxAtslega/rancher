@@ -142,13 +142,10 @@ require (
 	github.com/yvasiyarov/gorelic v0.0.7 // indirect
 	github.com/yvasiyarov/newrelic_platform_go v0.0.0-20160601141957-9c099fbc30e9 // indirect
 	golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
-	golang.org/x/mod v0.5.0
-	golang.org/x/net v0.0.0-20210805182204-aaa1db679c0d
+	golang.org/x/mod v0.6.0-dev.0.20220419223038-86c51ed26bb4
+	golang.org/x/net v0.7.0
 	golang.org/x/oauth2 v0.0.0-20210819190943-2bc19b11175f
-	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	golang.org/x/sys v0.0.0-20211013075003-97ac67df715c // indirect
-	golang.org/x/text v0.3.7 // indirect
-	golang.org/x/tools v0.1.7 // indirect
+	golang.org/x/sync v0.0.0-20220722155255-886fb9371eb4
 	google.golang.org/api v0.56.0
 	google.golang.org/grpc v1.40.0
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c
